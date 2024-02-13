@@ -1,0 +1,36 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+.pnp
+.env
+
+# TypeScript
+*.tsbuildinfo
+*.js
+
+# Visual Studio Code
+.vscode/
+.settings/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# JetBrains IDEs
+.idea/
+
+# Compiled output
+dist/
+
+# Logs and databases
+logs/
+*.log
+*.sqlite
+
+# Dependencies
+package-lock.json
+yarn.lock
